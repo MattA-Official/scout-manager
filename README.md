@@ -1,6 +1,8 @@
-# Svelte + Vite
+# Scout Manager
 
-This template should help get you started developing with Tauri and Svelte in Vite.
+![GitHub License](https://img.shields.io/github/license/matta-official/scout-manager)
+
+A DBMS for managing scout troop data, built for my A-Level Computer Science Non-Examination Assessment (NEA).
 
 ## Recommended IDE Setup
 

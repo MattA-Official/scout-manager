@@ -1,14 +1,15 @@
 {
   "productName": "scout-manager",
   "version": "0.0.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "com.matt.dev",
   "build": {
     "beforeDevCommand": "bun run dev",
     "devUrl": "http://localhost:1420",
     "beforeBuildCommand": "bun run build",
     "frontendDist": "../dist"
   },
-  "app": {"windows": [
+  "app": {
+    "windows": [
       {
         "fullscreen": false,
         "resizable": true,
